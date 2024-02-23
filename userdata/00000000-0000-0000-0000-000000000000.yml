@@ -1,0 +1,28 @@
+lastAccountName: Test_Player
+timestamps:
+  login: 0
+  logout: 0
+ipAddress: 192.168.1.1
+logoutlocation:
+  world: world
+  x: 10.0
+  y: 70.0
+  z: -10.0
+  yaw: 2.0
+  pitch: -1.0
+homes:
+  home:
+    world: world
+    x: 888.0
+    y: 65.0
+    z: 666.0
+    yaw: -70.0
+    pitch: 15.0
+  custom:
+    world: world
+    x: 233.0
+    y: 5.0
+    z: 111.0
+    yaw: 0.0
+    pitch: 0.0
+money: '0'
